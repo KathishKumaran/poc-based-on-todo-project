@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "example",
+    "password": "test@123",
+    "database": "practice",
+    "host": "127.0.0.1",
+    "port":5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "example",
+    "password": "test@123",
+    "database": "practice",
+    "host": "127.0.0.1",
+    "port":5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "example",
+    "password": "test@123",
+    "database": "practice",
+    "host": "127.0.0.1",
+    "port":5432,
+    "dialect": "postgres"
+  }
+}
